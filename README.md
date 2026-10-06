@@ -2,7 +2,7 @@
 
 [RedactGo](https://redactgo.com/) 是一个免费的在线 PDF 脱敏工具。它在浏览器中处理文件：选择需要遮盖的区域，检查实际生成的结果，再下载处理后的 PDF。无需注册，没有水印，未标记区域的文字尽量保持可搜索、可复制。
 
-![RedactGo 标志](https://redactgo.com/brand/privacy-r.png)
+<img src="https://redactgo.com/brand/privacy-r.png" alt="RedactGo 标志" width="96">
 
 ## 适合做什么
 
